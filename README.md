@@ -20,3 +20,15 @@
 
 ## 7. [function](https://github.com/WeiLianYang/C-Series/tree/main/C/function)
 
+
+## 8. [scope](https://github.com/WeiLianYang/C-Series/tree/main/C/scope)
+
+
+## 9. [array](https://github.com/WeiLianYang/C-Series/tree/main/C/array)
+
+
+## 10. [enum](https://github.com/WeiLianYang/C-Series/tree/main/C/enum)
+
+
+## 11. [pointer](https://github.com/WeiLianYang/C-Series/tree/main/C/pointer)
+
